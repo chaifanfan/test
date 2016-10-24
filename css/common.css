@@ -9,3 +9,11 @@ body {
 .fixMasterBug {
 	color: gray;
 }
+
+.branch {
+	color: blue;
+}
+
+.fixBug {
+	color: white;
+}
